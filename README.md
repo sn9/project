@@ -14,6 +14,8 @@ Basically, the paid version has more gui commands to make certain things easier
 but, if you dont want to use it, you should be able to do everything via command line
 https://www.jetbrains.com/pycharm/download/#section=windows
 
+To setup a student acccount with jetbrains, on the top right click the search bar and type student. setup a student account and youll have access to ALL of their professional products. The main difference is, professional has a lot of built in features that you might otherwise have to type into a terminal and other nice quality of life features.
+
 Here is a solid tutorial on Python/Django
 https://docs.djangoproject.com/en/1.10/intro/tutorial01/
 
@@ -29,4 +31,4 @@ Make sure you had django project selected, pycharm will automatically install dj
 Then under file -> settings, there is a search button/tab and type in git, and you can put in your github information and it should be good to go. Note, that I dont have anything actually started though.
 
 to change the theme/colors, goto file -> settings and type in theme, and you should be able to customize it
-If you want eclipse key bindings you should search i think for bindings and you can change it to that.
+If you want eclipse, or any other, key bindings you should search i think for bindings and you can change it to that.
